@@ -21,7 +21,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 logging.basicConfig(level=logging.INFO)
 
 dp = Dispatcher()
-bot = Bot(token='8176518259:AAHXFueyjNwWSjrGZsFcg9Qn1NaK0O1xzB8')
+bot = Bot(token='')
 
 #обработка файла с датасетом
 import json
